@@ -1,0 +1,7 @@
+site_name: Christian Lindenau
+theme: material
+
+nav:
+  - Home: 'index.md'
+  - Info: 'info.md'
+  - Kontakte: 'kontakte.md'
